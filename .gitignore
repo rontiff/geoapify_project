@@ -1,1 +1,4 @@
 api_keys.py
+.ipynb_checkpoints
+.virtual_documents
+__pycache__
